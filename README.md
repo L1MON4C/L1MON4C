@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @L1MON4C
-- 👀 I’m interested in brawl stars
+- 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on sad
 - 📫 How to reach me daddy
